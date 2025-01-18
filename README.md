@@ -1,7 +1,7 @@
 # Neurodegenerative-Diseases
 Detection of Neurodegenerative Diseases
 ## Models Used
-ViT(Vision Transformers
+ViT(Vision Transformers) /
 ResNet-101
 CNN
 CNN+CBAM
