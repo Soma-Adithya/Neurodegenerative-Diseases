@@ -5,4 +5,4 @@ ViT(Vision Transformers) |
 ResNet-101 |
 CNN |
 CNN+CBAM |
-Hybrid (CNN+ViT 
+Hybrid (CNN+ViT)
